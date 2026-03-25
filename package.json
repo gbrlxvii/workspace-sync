@@ -1,0 +1,9 @@
+{
+  "name": "workspace-sync",
+  "version": "1.0.0",
+  "description": "Syncs shared workspace configuration across org repositories",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node install.js"
+  }
+}
